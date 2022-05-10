@@ -85,7 +85,7 @@ button:active {
     background-color: #ffe3ee;
 }
 #finished-projects {
-    background-color: #0044ff;
+    border-color: #0044ff;
 }
 #finished-projects header {
     background-color: #0044ff;
